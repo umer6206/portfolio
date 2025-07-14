@@ -38,11 +38,11 @@ const ContactSection = () => {
                     {/* Contact Info */}
                     <div className="animate-slide-up">
                         <h3 className="text-2xl font-bold mb-6 gradient-text">
-                            Let's Work Together
+                            Let&apos;s Work Together
                         </h3>
                         <p className="text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                            I'm always interested in hearing about new opportunities and exciting projects.
-                            Whether you have a question or just want to say hi, I'll try my best to get back to you!
+                            I&apos;m always interested in hearing about new opportunities and exciting projects.
+                            Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
                         </p>
 
                         <div className="space-y-6">
